@@ -21,6 +21,7 @@
 
 # Comparison
 ***
+
 | Components        | Mac Pro       | IBM-5100|
 | ------------- |:-------------:| -----:|
 | RAM  | 16-64 KB | 16 GB|
