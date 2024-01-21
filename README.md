@@ -22,11 +22,12 @@
 # Comparison
 ***
 
+
 | Components        | Mac Pro       | IBM-5100|
 | ------------- |:-------------:| -----:|
 | RAM  | 16-64 KB | 16 GB|
-| Monitor   | 16 inch     |   5-inch CRT |
-| Processor speed| 3.2 GHz     |   1.9 MHz |
+| Monitor| 16 inch|5-inch CRT |
+| Processor speed| 3.2 GHz|1.9 MHz |
 
 
   
