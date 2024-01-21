@@ -1,6 +1,6 @@
 # IBM-5100
 ---
-![](https://www.oldcomputr.com/wp-content/uploads/2018/04/ibm-5100-9795.jpg)
+![ibm-5100](https://www.oldcomputr.com/wp-content/uploads/2018/04/ibm-5100-9795.jpg)
 - It has a processor that clocked at a speed of **1.9 MHz**
 - It has a **16-64 KB** of RAM
 - 1/4 inch tape drive with a capacity of **200 KB**
@@ -10,7 +10,7 @@
 
 # Macbook Pro
 ---
-![](https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117_Full-Bleed-Image.jpg.large_2x.jpg)
+![macpro](https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117_Full-Bleed-Image.jpg.large_2x.jpg)
 - M3 chip
 - Its processor has a speed of up to **3.2 GHz**
 - The MacBook Pro has a max of **2 TB SSD**
